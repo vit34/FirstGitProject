@@ -9,7 +9,7 @@ public static void ptintHello1(){
 }
 
 public static void ptintHello2(){
-   System.out.println("Hello1!");
+   System.out.println("Hello2!");
 }
 
 
